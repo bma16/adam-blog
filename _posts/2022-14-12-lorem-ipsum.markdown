@@ -15,4 +15,6 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
 
-Praesent quam purus, finibus molestie libero vel, tristique pellentesque urna. Quisque nec euismod lectus. Nam aliquet, metus nec efficitur congue, nunc ex ornare erat, vitae dictum felis lectus non elit. Mauris commodo vulputate aliquet. Phasellus egestas maximus purus, et gravida risus dignissim nec. Donec ac ullamcorper dui. Etiam at posuere urna. Proin viverra ante ante, vel facilisis massa egestas vitae. In sollicitudin dapibus elit, at semper sem ullamcorper iaculis.
+Praesent quam purus, finibus molestie libero vel, tristique pellentesque urna. Quisque nec euismod lectus. Nam aliquet, metus nec efficitur congue, nunc ex ornare erat, vitae dictum felis lectus non elit. Mauris commodo vulputate aliquet. Phasellus egestas maximus purus, et gravida risus dignissim nec. Donec ac ullamcorper dui.
+
+Etiam at posuere urna. Proin viverra ante ante, vel facilisis massa egestas vitae. In sollicitudin dapibus elit, at semper sem ullamcorper iaculis.
